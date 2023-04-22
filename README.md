@@ -1,7 +1,7 @@
 # Hello World!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anton
 
 
-- 🧾 I'm certified Front-End Web Development ([Trilogy's Skills Bootcamp](https://skillsforlife.edx.org/)).
+- 🧾 I'm certified Front-End Web Developer ([Trilogy's Skills Bootcamp](https://skillsforlife.edx.org/)).
 - 📜 I'm graduated in Computing Technologies ([University of Roehampton](https://www.roehampton.ac.uk/)).
 - 🛠️ I’m currently learning React and building React projects - [Online eCommerce website](https://github.com/apyosi/ecommerce-shop) and [Portfolio website](https://github.com/apyosi/react-portfolio).
 
