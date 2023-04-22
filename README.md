@@ -3,7 +3,7 @@
 
 - 🧾 I'm certified Front-End Web Development ([Trilogy's Skills Bootcamp](https://skillsforlife.edx.org/)).
 - 📜 I'm graduated in Computing Technologies ([University of Roehampton](https://www.roehampton.ac.uk/)).
-- 🛠️ I’m currently learning React and building [Portfolio website](https://github.com/apyosi/react-portfolio).
+- 🛠️ I’m currently learning React and building React projects - [Online eCommerce website](https://github.com/apyosi/ecommerce-shop) and [Portfolio website](https://github.com/apyosi/react-portfolio).
 
 ### GitHub Analytics:
 
@@ -58,7 +58,7 @@ src="https://github-profile-trophy.vercel.app/?username=apyosi&theme=onedark"
 /> -->
 </div>
 
-## 🤹 Technologies
+## 🤹 Tech Stack
 
 ### 📚 Education
 
@@ -96,10 +96,6 @@ src="https://github-profile-trophy.vercel.app/?username=apyosi&theme=onedark"
 <a href="https://www.drupal.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 
-### 📝 IDE
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
-
 ### ☁️ Cloud
 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
@@ -123,6 +119,10 @@ src="https://github-profile-trophy.vercel.app/?username=apyosi&theme=onedark"
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></a>
+
+### 📝 IDE
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 
 ### 🖥️ OS
 
