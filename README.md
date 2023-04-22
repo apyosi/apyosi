@@ -125,7 +125,7 @@ src="https://github-profile-trophy.vercel.app/?username=apyosi&theme=onedark"
 
 ### 🖥️ OS
 
-<a href="" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
 <a href="https://manjaro.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" /></a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
